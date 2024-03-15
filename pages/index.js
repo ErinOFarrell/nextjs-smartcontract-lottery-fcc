@@ -1,6 +1,5 @@
 // imports work with our frontend, but require does not
 // nodejs !== js/ecmascript, frontend and backend js are a little diff
-
 import Head from "next/head"
 import styles from "../styles/Home.module.css"
 import CheatHeader from "../components/CheatHeader"
